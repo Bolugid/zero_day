@@ -1,4 +1,4 @@
-#This file is mandatory in projectii
+#This flie is mandatory in projects
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 
